@@ -98,5 +98,34 @@
         "name": "shape_designer.filter.FillColorFilter"
       }
     ]
+  },
+  {
+    "type": "shape_designer.figure.PolyCircle",
+    "id": "43bd9166-a991-2603-5aee-108b6c32f5b8",
+    "x": 669,
+    "y": -46,
+    "width": 198,
+    "height": 198,
+    "alpha": 1,
+    "angle": 0,
+    "userData": {
+      "name": "Circle"
+    },
+    "cssClass": "shape_designer_figure_PolyCircle",
+    "ports": [],
+    "bgColor": "#95C06A",
+    "color": "#1B1B1B",
+    "stroke": 0,
+    "radius": 0,
+    "dasharray": null,
+    "blur": 0,
+    "filters": [
+      {
+        "name": "shape_designer.filter.PositionFilter"
+      },
+      {
+        "name": "shape_designer.filter.FillColorFilter"
+      }
+    ]
   }
 ]
