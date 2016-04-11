@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "type": "shape_designer.figure.PolyRect",
+    "id": "dc1d9c59-94a5-dfe9-c36d-444e3e00eedd",
+    "x": 244,
+    "y": 86,
+    "width": 153,
+    "height": 53,
+    "alpha": 1,
+    "angle": 0,
+    "userData": {
+      "baseClass": "draw2d.SetFigure"
+    },
+    "cssClass": "shape_designer_figure_PolyRect",
+    "ports": [],
+    "bgColor": "#FFFFFF",
+    "color": "#303030",
+    "stroke": 1,
+    "radius": 0,
+    "dasharray": null,
+    "vertices": [
+      {
+        "x": 244,
+        "y": 86
+      },
+      {
+        "x": 397,
+        "y": 86
+      },
+      {
+        "x": 397,
+        "y": 139
+      },
+      {
+        "x": 244,
+        "y": 139
+      }
+    ],
+    "blur": 0,
+    "filters": [
+      {
+        "name": "shape_designer.filter.PositionFilter"
+      },
+      {
+        "name": "shape_designer.filter.StrokeFilter"
+      },
+      {
+        "name": "shape_designer.filter.FillColorFilter"
+      }
+    ]
+  },
+  {
+    "type": "shape_designer.figure.PolyRect",
+    "id": "c084b9d6-d3af-d4d0-55f6-1b51809d4cb3",
+    "x": 478,
+    "y": 124,
+    "width": 204,
+    "height": 88,
+    "alpha": 1,
+    "angle": 0,
+    "userData": {
+      "name": "Rectangle"
+    },
+    "cssClass": "shape_designer_figure_PolyRect",
+    "ports": [],
+    "bgColor": "#FFFFFF",
+    "color": "#303030",
+    "stroke": 1,
+    "radius": 0,
+    "dasharray": null,
+    "vertices": [
+      {
+        "x": 478,
+        "y": 124
+      },
+      {
+        "x": 682,
+        "y": 124
+      },
+      {
+        "x": 682,
+        "y": 212
+      },
+      {
+        "x": 478,
+        "y": 212
+      }
+    ],
+    "blur": 0,
+    "filters": [
+      {
+        "name": "shape_designer.filter.PositionFilter"
+      },
+      {
+        "name": "shape_designer.filter.StrokeFilter"
+      },
+      {
+        "name": "shape_designer.filter.FillColorFilter"
+      }
+    ]
+  }
+]
